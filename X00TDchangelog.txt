@@ -11,4 +11,6 @@ CÁC THAY ĐỔI TRONG BẢN CẬP NHẬT
 * Update some blob from caf LA.UM.8.2.r1-04000-sdm660.0
 * Add CAP_SYS_BOOT capability for charger service so that it can
 shutdown/reboot the system.
+* Change logcal version ,Update more for kernel caf (Fix wifi bandwith)
+* Fix auto add icon
 
