@@ -1,0 +1,14 @@
+CÁC THAY ĐỔI TRONG BẢN CẬP NHẬT
+===============================
+
+* Import more audio config from stock and blobs
+* Fix incall audio on headphones
+* Fix low speaker sound
+* Wifi: ini file changes for Android Q upgrade
+* Bypass safetynet
+* Ota support available
+* Change type build to userdebug
+* Update some blob from caf LA.UM.8.2.r1-04000-sdm660.0
+* Add CAP_SYS_BOOT capability for charger service so that it can
+shutdown/reboot the system.
+
