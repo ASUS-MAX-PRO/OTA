@@ -1,8 +1,16 @@
-CÁC THAY ĐỔI TRONG BẢN CẬP NHẬT 17/1/2020
-=========================================
+CÁC THAY ĐỔI TRONG BẢN CẬP NHẬT
+===============================
 
-* Fix rounded corners in Q
-* Improve RSSNR signal level
-* Fix all the issues on al the cams
-* Enable high fps sf early phase offsets
+* Import more audio config from stock and blobs
+* Fix incall audio on headphones
+* Fix low speaker sound
+* Wifi: ini file changes for Android Q upgrade
+* Bypass safetynet
+* Ota support available
+* Change type build to userdebug
+* Update some blob from caf LA.UM.8.2.r1-04000-sdm660.0
+* Add CAP_SYS_BOOT capability for charger service so that it can
+shutdown/reboot the system.
+* Change logcal version ,Update more for kernel caf (Fix wifi bandwith)
+* Fix auto add icon
 
