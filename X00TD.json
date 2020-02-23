@@ -1,12 +1,12 @@
 {
 "response": [
 {
-  "datetime":"1582286808",
-  "filename": "lineage-17.1-20200221-UNOFFICIAL-X00TD.zip",
-  "id": "bc51e9a9e4b56dc0943044d0b0b0ef22",
+  "datetime":"1582445695",
+  "filename": "lineage-17.1-20200223-UNOFFICIAL-X00TD.zip",
+  "id": "edbd9afc04db1df494ab9bd24e474896",
   "romtype": "UNOFFICIAL",
-  "size": 682960330,
-  "url": "https://sourceforge.net/projects/asus-zenfone-max-pro-m1-m2/files/LineageOS/X00TD/lineage-17.1-20200221-UNOFFICIAL-X00TD.zip/download",
+  "size": 692960330,
+  "url": "https://sourceforge.net/projects/asus-zenfone-max-pro-m1-m2/files/LineageOS/X00TD/lineage-17.1-20200223-UNOFFICIAL-X00TD.zip/download",
   "version": "17.1"
 }
 ]

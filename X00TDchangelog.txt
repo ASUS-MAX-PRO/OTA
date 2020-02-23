@@ -1,6 +1,27 @@
 CHANGELOG
 ===============================
 
+23/02/2020
+Device:
+* Enfoce selinux
+* Enable call recording
+* Add CAP_SYS_BOOT capability for charger service so that it can
+shutdown/reboot the system.
+* Enable IWLAN assisted mode
+* Enable VoLTE for Viettel Vietnam
+* Wifi: add etsi_srd_chan_in_master_mode name (Keep old etsi_srd_chan_in_master_mode cuz of Pie tag kernel based)
+* Enable VoLTE/VoWIFI for Digi Mobil
+* Enable VoLTE/WoWIFI for Megafone, MTS and Tele2/ECC/Volgogr
+* Enable full vndk support
+* Enable cpuidle during boot
+* Disable NearbyMessagingService
+* Enable AOSP bluetooth audio HAL v2
+* Remove prebuilt NXP for AUDIO, I update Audio HALS new for Q, Impro Audio for games and Bluetooth Audio...
+
+Sources ROM:
+* SystemUI: Add visualizer feature
+* Fix AoD front scrim being opaque at DOZE_PULSING.
+
 21/02/2020
 * Update vendor security patch level
 * Adapt CarrierConfig overlay from ASUS Q BETA
