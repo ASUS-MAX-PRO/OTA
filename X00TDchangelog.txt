@@ -3,12 +3,19 @@ Build type: UNOFFICIAL
 Device: Asus Zenfone Max Pro M1 (X00TD)
 Device maintainer: Nguyenhung9xdev
 
-25/02/2020
-* Enable config_enableManualSubProvisioning
-* Fixe incall audio on headphones
-* Enable TARGET_USES_ALTERNATIVE_MANUAL_NETWORK_SELECT
-* Improment Audio , include nxp Q stock ASUS Q
-* Import aptX blobs from ASUS Q BETA
-* Enable google connectivity services
-* Enable config for dual LTE
-* Fix Bluetooh Audio (I don't test , sombody can test and feedback)
+
+===== 25 February, 2020 =====
+
+- Updated to OOS 10.3.1 blobs
+- Added ability to swipe down on recents view to clear all with stock launcher
+- Fixed some flashlight and screenshot issue
+- Improved signal on 2.4GHz wifi
+- Updated translations
+- Enable config_enableManualSubProvisioning
+- Fixe incall audio on headphones
+- Enable TARGET_USES_ALTERNATIVE_MANUAL_NETWORK_SELECT
+- Improment Audio , include nxp Q stock ASUS Q
+- Import aptX blobs from ASUS Q BETA
+- Enable google connectivity services
+- Enable config for dual LTE
+- Fix Bluetooh Audio (I don't test , sombody can test and feedback)
