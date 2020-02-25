@@ -1,56 +1,12 @@
 CHANGELOG
 ===============================
 
-23/02/2020
-Device:
-* Enfoce selinux
-* Enable call recording
-* Add CAP_SYS_BOOT capability for charger service so that it can
-shutdown/reboot the system.
-* Enable IWLAN assisted mode
-* Enable VoLTE for Viettel Vietnam
-* Wifi: add etsi_srd_chan_in_master_mode name (Keep old etsi_srd_chan_in_master_mode cuz of Pie tag kernel based)
-* Enable VoLTE/VoWIFI for Digi Mobil
-* Enable VoLTE/WoWIFI for Megafone, MTS and Tele2/ECC/Volgogr
-* Enable full vndk support
-* Enable cpuidle during boot
-* Disable NearbyMessagingService
-* Enable AOSP bluetooth audio HAL v2
-* Remove prebuilt NXP for AUDIO, I update Audio HALS new for Q, Impro Audio for games and Bluetooth Audio...
-
-Sources ROM:
-* SystemUI: Add visualizer feature
-* Fix AoD front scrim being opaque at DOZE_PULSING.
-
-21/02/2020
-* Update vendor security patch level
-* Adapt CarrierConfig overlay from ASUS Q BETA
-* Enable voWIFI for Airtel
-* Update props for VoLTE/VoWiFI
-* Import power profile from stock Q Beta
-
-20/02/2020
-* Fix gcam FC
-* Update overlay Brightnesslevels
-* Wifi: enable QPower and Deep sleep at the same time
-* Add ota support (It will works from my build 20/02/2020)
-* Add config overlay automotiveHideNavBarForKeyboard
-* Update kernel 4.4.214
-
-19/02/2020
-* Impro Audio for Q (I kang some config from Havoc -- thanks to @travilo)
-* Add Netflix-Specific prop
-* Force enable mobile network settings v2
-* Add 2 more notification icons
-* Beautify rounded corners
-* Update ramdisk from LA.UM.8.2.r1-04000-sdm660.0
-* Set zRam disk size to 50% of RAM size for non-Go devices.
-* Fixed : CTS issue due to ipsec_tunnel feature.
-* Allows the device to suspend even when the screen is on.
-* Import GPS HAL from LA.UM.8.2.r1-05100-sdm660.0
-* Change DPT stock: 420
-* Fix chrome v77+ to crash
-*** Minor update other....
-
-18/02/2020
-* Initial commit
+25/02/2020
+* Enable config_enableManualSubProvisioning
+* Fixe incall audio on headphones
+* Enable TARGET_USES_ALTERNATIVE_MANUAL_NETWORK_SELECT
+* Improment Audio , include nxp Q stock ASUS Q
+* Import aptX blobs from ASUS Q BETA
+* Enable google connectivity services
+* Enable config for dual LTE
+* Fix Bluetooh Audio (I don't test , sombody can test and feedback)
