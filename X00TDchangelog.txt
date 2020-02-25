@@ -1,5 +1,7 @@
-CHANGELOG
-===============================
+Highlights & Device Specific Changes:
+Build type: UNOFFICIAL
+Device: Asus Zenfone Max Pro M1 (X00TD)
+Device maintainer: Nguyenhung9xdev
 
 25/02/2020
 * Enable config_enableManualSubProvisioning
