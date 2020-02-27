@@ -1,7 +1,14 @@
 Highlights & Device Specific Changes:
-Build type: UNOFFICIAL
+Build type: Weekly
 Device: Asus Zenfone Max Pro M1 (X00TD)
 Device maintainer: Nguyenhung9xdev
+
+
+===== 27 February, 2020 =====
+
+- Add audio_policy_configuration_caf from Stock Q (Bluetooh Audio test & Report to dev with logs)
+- Enable display burn-in-protection in Ambient Display
+- Remove old CarrierSwitch solution init.rc code for 660
 
 
 ===== 26 February, 2020 =====
