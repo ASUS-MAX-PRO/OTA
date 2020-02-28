@@ -4,22 +4,16 @@ Device: Asus Zenfone Max Pro M1 (X00TD)
 Device maintainer: Nguyenhung9xdev
 
 
+===== 28 February, 2020 =====
+
+- Disable a2dp offload to fix Bluetooth Audio
+- crDroid begin support Official
+
 ===== 27 February, 2020 =====
 
-- Add audio_policy_configuration_caf from Stock Q (Bluetooh Audio test & Report to dev with logs)
+- Add audio_policy_configuration_caf from Stock Q
 - Enable display burn-in-protection in Ambient Display
-- Remove old CarrierSwitch solution init.rc code for 660
-
-
-===== 26 February, 2020 =====
-
-- Fixe incall audio on headphones
-- Enable TARGET_USES_ALTERNATIVE_MANUAL_NETWORK_SELECT
-- Improment Audio , include nxp Q stock ASUS Q
-- Import aptX blobs from ASUS Q BETA
-- Enable google connectivity services
-- Enable config for dual LTE
-- Fix Bluetooh Audio (I don't test , sombody can test and feedback)
-- Fix url changelog OTA
-- Fix failed safetynet with magisk (safetynet working goood)
-- Fix random freezes while streaming or playing a video in youtube, MX player etc, game, Netflix
+- Update media config from stock Q
+- Sepolicy: Allow chrome read kgsl sysfs
+- Change uid/gid of time_daemon
+- Update qti-telephony-common from DRG
