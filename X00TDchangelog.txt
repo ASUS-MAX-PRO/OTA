@@ -1,6 +1,20 @@
 CHANGELOG
 ===============================
 
+29/02/2020
+- Fixe incall audio on headphones
+- Enable TARGET_USES_ALTERNATIVE_MANUAL_NETWORK_SELECT
+- Improment Audio , include nxp Q stock ASUS Q
+- Import aptX blobs from ASUS Q BETA
+- Enable google connectivity services
+- Fix failed safetynet with magisk (safetynet working goood)
+- Fix random freezes while streaming or playing a video in youtube, MX player etc, game, Netflix
+- Enable display burn-in-protection in Ambient Display
+- Fix chrome lag
+- Fix headset Bluetooth Audio
+- Fixes the bug in dual SIM device where preferred data selection didn't stick after reboot
+- Fix soundfx error when watching video
+
 23/02/2020
 Device:
 * Enfoce selinux
