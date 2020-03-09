@@ -1,8 +1,31 @@
 Highlights & Device Specific Changes:
 Build type: Weekly
-Device: Asus Zenfone Max Pro M1 (X00TD)
+Device: Zenfone Max Pro M1 (X00TD)
 Device maintainer: Nguyenhung9xdev
+Required firmware: 059
 
+===== 9 March, 2020 =====
+
+- Improment speed wifi
+- Fix Smart Charging for crDroid
+- Add doze packages
+- Declare STATE_DOZE support
+- Improment camera
+- Update some Blob from LA.UM.8.2.r1-05100-sdm660.0
+- Kernel: enable wireguard
+- Update more blob Audio from Q
+- Update crDroid 6.4
+- Update Android security patch
+
+===== 3 March, 2020 =====
+
+- Fix soundfx when watch video
+- Update audio blobs from stock q beta
+- Sign TimeService app with dedicated certificate
+- Add Recorder
+- Update more Tweak system props from LA.UM.8.2.r1-05100-sdm660.0
+- Switch to clang 10.0.4
+- Fix kernel warning error when boot or update ota
 
 ===== 28 February, 2020 =====
 

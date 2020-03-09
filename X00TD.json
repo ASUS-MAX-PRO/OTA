@@ -1,24 +1,24 @@
 {
-	"response": [
-		{
-			"maintainer": "Nguyenhung9xdev",
-			"oem": "Asus",
-			"device": "Zenfone Max Pro M1",
-			"filename": "crDroidAndroid-10.0-20200228-X00TD-v6.3.zip",
-			"download": "https://sourceforge.net/projects/asus-zenfone-max-pro-m1-m2/files/Crdroid/X00TD/crDroidAndroid-10.0-20200228-X00TD-v6.3.zip/download",
-			"timestamp": 1582856869,
-			"md5": "3e4e7242bff8b45621e5c8eb18353486",
-			"size": 726517943,
-			"version": "6.3",
-			"buildtype": "Weekly",
-			"forum": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-crdroid-android-6-2-t4048161",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": ""
-		}
-	]
+  "response": [
+    {
+        "maintainer": "Nguyenhung9x (nguyenhung9xdev)",
+        "oem": "Asus",
+        "device": "Zenfone Max Pro M1",
+        "filename": "crDroidAndroid-10.0-20200309-X00TD-v6.4.zip",
+        "download": "https://sourceforge.net/projects/crdroid/files/X00TD/6.x/crDroidAndroid-10.0-20200309-X00TD-v6.4.zip/download",
+        "timestamp": 1583745400,
+        "md5": "9d5761c8b55c5269a1db5aa4bdbc0b43",
+        "size": 741623043,
+        "version": "6.4",
+        "buildtype": "Weekly",
+        "forum": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-crdroid-android-6-2-t4048161",
+        "gapps": "https://opengapps.org/?arch=arm64&api=10.0&variant=nano",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/recovery-unofficial-twrp-3-2-3-0-t3888110",
+        "paypal": "https://paypal.me/nguyenhung9x2018?locale.x=en_US",
+        "telegram": "https://t.me/nguyenhung9xdev"
+    }
+  ]
 }
